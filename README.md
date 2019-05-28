@@ -16,3 +16,8 @@ apartment using the reciever module.
 
 We did run into some memory computation problems, as the localization was done through a
 Particle filter, which required an immense amount of dynamic memory from the microprocessor.
+
+
+#############
+Please look at the ReadMe.pdf for more information. 
+#############
